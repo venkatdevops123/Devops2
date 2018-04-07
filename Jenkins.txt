@@ -1,0 +1,16 @@
+node
+{
+stage 'Dev'
+}
+node
+{
+stage 'QA'
+}
+node
+{
+stage 'Pre Prod'
+}
+node
+{
+stage 'Live'
+}
